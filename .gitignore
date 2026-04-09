@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+chrome_langchain_db/
+*.pyc
+.env
+.DS_Store
